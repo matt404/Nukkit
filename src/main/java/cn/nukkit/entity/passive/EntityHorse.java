@@ -9,7 +9,7 @@ import cn.nukkit.network.protocol.AddEntityPacket;
 /**
  * @author PikyCZ
  */
-public class EntityHorse extends EntityAnimal {
+public class EntityHorse extends EntityTameable {
 
     public static final int NETWORK_ID = 23;
 

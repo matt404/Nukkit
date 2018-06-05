@@ -35,18 +35,16 @@ hs_err_pid*
 # Generated files
 banned-ips.json
 banned-players.json
+creativeitems.json
+mobplugin.log
+recipes.json
 nukkit.yml
 ops.txt
 server.log
 server.properties
 white-list.txt
-worlds
-worlds/*
-plugins
-plugins/*
-players
-players/*
-logs
-logs/*
-resource_packs
-resource_packs/*
+worlds/
+plugins/
+players/
+logs/
+resource_packs/

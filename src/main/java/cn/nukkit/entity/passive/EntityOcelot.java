@@ -10,7 +10,7 @@ import cn.nukkit.network.protocol.AddEntityPacket;
  * Author: BeYkeRYkt
  * Nukkit Project
  */
-public class EntityOcelot extends EntityAnimal {
+public class EntityOcelot extends EntityTameable {
 
     public static final int NETWORK_ID = 22;
 

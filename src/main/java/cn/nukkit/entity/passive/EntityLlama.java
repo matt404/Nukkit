@@ -8,7 +8,7 @@ import cn.nukkit.network.protocol.AddEntityPacket;
 /**
  * @author PikyCZ
  */
-public class EntityLlama extends EntityAnimal {
+public class EntityLlama extends EntityTameable {
 
     public static final int NETWORK_ID = 29;
 
